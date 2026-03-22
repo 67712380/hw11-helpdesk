@@ -28,7 +28,7 @@ services:
     image: phpmyadmin/phpmyadmin
     container_name: hw11_helpdesk_pma
     ports:
-      - "8094:80"     # 🚀 พอร์ต phpMyAdmin ของนาย B คือ 8094
+      - "8094:80"     # 🚀 พอร์ต phpMyAdmin ของนาย BB คือ 8094
     environment:
       PMA_HOST: db
       PMA_PORT: 3306

@@ -59,7 +59,7 @@ $tickets = $stmt->fetchAll(PDO::FETCH_ASSOC);
     </div>
     
     <div class="mt-8 text-center text-sm text-gray-500 font-medium bg-white max-w-max mx-auto px-6 py-2 rounded-full shadow-sm">
-        ⚙️ จัดการระบบ Database & Backend โดย: [67700742] [พศธร ทองบุญชื่น]
+        ⚙️ จัดการระบบ Database & Backend โดย: [67700742] [พศธร ทองบุญชื่น B] 
     </div>
 </body>
 </html>
